@@ -39,13 +39,13 @@ Welcome to my personal cybersecurity knowledge base. This repository contains es
 ## 📺 Essential YouTube Channels
 
 ### Educational & Concepts
-* [NetworkChuck](https://youtube.com) — Extremely high-energy, visual tutorials on Networking, Linux, Python, and basic Security. Perfect for reinforcing your network base.
-* [John Hammond](https://youtube.com) — One of the best cybersecurity creators. He uploads CTF walk-throughs, malware analysis videos, and explains complex exploits in simple terms.
-* [IppSec](https://youtube.com) — The ultimate guide for Hack The Box. If you want to see exactly how an expert hacks into machines step-by-step, this is the gold standard.
+* [NetworkChuck](https://www.youtube.com/@NetworkChuck) — Extremely high-energy, visual tutorials on Networking, Linux, Python, and basic Security. Perfect for reinforcing your network base.
+* [John Hammond](https://www.youtube.com/@_JohnHammond) — One of the best cybersecurity creators. He uploads CTF walk-throughs, malware analysis videos, and explains complex exploits in simple terms.
+* [IppSec](https://www.youtube.com/@ippsec) — The ultimate guide for Hack The Box. If you want to see exactly how an expert hacks into machines step-by-step, this is the gold standard.
 
 ### News & Cyber Culture
-* [Seytonic](https://youtube.com) — Covers hardware hacking, tech news, and recent data breaches in short, engaging videos.
-* [Mental Outlaw](https://youtube.com) — Focused on Linux, privacy, technology, and security culture.
+* [Seytonic](https://www.youtube.com/@Seytonic) — Covers hardware hacking, tech news, and recent data breaches in short, engaging videos.
+* [Mental Outlaw](https://www.youtube.com/@MentalOutlaw) — Focused on Linux, privacy, technology, and security culture.
 
 ---
 
