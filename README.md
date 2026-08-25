@@ -1,11 +1,13 @@
-#  My Cybersecurity Cheat-Sheets & Resources
+# 📌 My Cybersecurity Cheat-Sheets & Resources
 
-Welcome to my personal cybersecurity knowledge base. This repository contains essential websites, tools, documentation links, and command-line cheat-sheets that I use for learning and daily practice.
+Welcome to my personal cybersecurity knowledge base. This repository contains essential websites, tools, roadmaps, YouTube channels, and command-line cheat-sheets that I use for learning and daily practice.
 
 ---
 
 ## 🗺️ Table of Contents
+* [🛣️ Cybersecurity Roadmaps](#️-cybersecurity-roadmaps)
 * [🌐 Useful Learning Platforms](#-useful-learning-platforms)
+* [📺 Essential YouTube Channels](#-essential-youtube-channels)
 * [🔍 Threat Intelligence & OSINT](#-threat-intelligence--osint-open-source-intelligence)
 * [🛑 Vulnerability Databases & Exploits](#-vulnerability-databases--exploits)
 * [🐧 Linux Cheat-Sheet (Useful Commands)](#-linux-cheat-sheet-useful-commands)
@@ -14,17 +16,36 @@ Welcome to my personal cybersecurity knowledge base. This repository contains es
 
 ---
 
+## 🛣️ Cybersecurity Roadmaps
+
+* [Paul Jerimy Cybersecurity Career Roadmap](https://pauljerimy.com) — The most famous, interactive, and comprehensive roadmap in the industry. It maps out all security certifications by domain (Network Security, Pentesting, Incident Response, etc.) and difficulty levels from entry to expert.
+
+---
+
 ## 🌐 Useful Learning Platforms
 
 ### Practice & Labs
-* [TryHackMe](https://tryhackme.com/p/alexbaa201) — Interactive rooms and structured learning paths for all levels.
-* [Hack The Box](https://profile.hackthebox.com/) — Advanced gamified machines for penetration testing practice.
+* [TryHackMe](https://tryhackme.com) — Interactive rooms and structured learning paths for all levels.
+* [Hack The Box](https://hackthebox.com) — Advanced gamified machines for penetration testing practice.
 * [PortSwigger Web Security Academy](https://portswigger.net) — The absolute best free course for web vulnerabilities (OWASP Top 10).
-* [CyberDefenders](https://cyberdefenders.org/dashboard/) - Very good site to train your SOC skills
+* [CyberDefenders](https://cyberdefenders.org) — Excellent platform for Blue Team (SOC, Digital Forensics, and Incident Response) with a great catalog of free practice labs.
 
 ### Reference & Methodologies
 * [OWASP Top 10](https://owasp.org) — The standard awareness document for web application security risks.
 * [MITRE ATT&CK Matrix](https://mitre.org) — A globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+
+---
+
+## 📺 Essential YouTube Channels
+
+### Educational & Concepts
+* [NetworkChuck](https://youtube.com) — Extremely high-energy, visual tutorials on Networking, Linux, Python, and basic Security. Perfect for reinforcing your network base.
+* [John Hammond](https://youtube.com) — One of the best cybersecurity creators. He uploads CTF walk-throughs, malware analysis videos, and explains complex exploits in simple terms.
+* [IppSec](https://youtube.com) — The ultimate guide for Hack The Box. If you want to see exactly how an expert hacks into machines step-by-step, this is the gold standard.
+
+### News & Cyber Culture
+* [Seytonic](https://youtube.com) — Covers hardware hacking, tech news, and recent data breaches in short, engaging videos.
+* [Mental Outlaw](https://youtube.com) — Focused on Linux, privacy, technology, and security culture.
 
 ---
 
