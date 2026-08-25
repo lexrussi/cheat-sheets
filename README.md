@@ -17,10 +17,10 @@ Welcome to my personal cybersecurity knowledge base. This repository contains es
 ## 🌐 Useful Learning Platforms
 
 ### Practice & Labs
-* [TryHackMe](https://tryhackme.com) — Interactive rooms and structured learning paths for all levels.
-* [Hack The Box](https://hackthebox.com) — Advanced gamified machines for penetration testing practice.
+* [TryHackMe](https://tryhackme.com/p/alexbaa201) — Interactive rooms and structured learning paths for all levels.
+* [Hack The Box]([https://hackthebox.com](https://profile.hackthebox.com/)) — Advanced gamified machines for penetration testing practice.
 * [PortSwigger Web Security Academy](https://portswigger.net) — The absolute best free course for web vulnerabilities (OWASP Top 10).
-* [CyberDefenders](https://cyberdefenders.org/) - Very good site to train your SOC skills
+* [CyberDefenders](https://cyberdefenders.org/dashboard/) - Very good site to train your SOC skills
 
 ### Reference & Methodologies
 * [OWASP Top 10](https://owasp.org) — The standard awareness document for web application security risks.
